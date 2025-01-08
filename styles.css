@@ -1,0 +1,35 @@
+body {
+    background-color: #88bcf0;
+}
+
+h1 {
+    color: #4d82b7;
+}
+
+h2, h3 {
+    color: #343a40;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.home {
+    background-image: url(background.jpg); /* Ganti dengan nama file gambar Anda */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #000000; /* Mengubah warna teks menjadi putih agar kontras dengan latar belakang */
+}
+
+h1, h2, h3 {
+    color: #287bce; /* Mengubah warna judul menjadi putih */
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
